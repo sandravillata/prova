@@ -1,0 +1,1280 @@
+#
+# Results on Wednesday April 15 2020 14:54:02 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+# Design number was non-random = 0
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1586962442,be180dfeed1e2429503d2ce73123b1dc,Form,1,0,consent,NULL,age,56
+1586962442,be180dfeed1e2429503d2ce73123b1dc,Form,1,0,consent,NULL,state name,NJ
+1586962442,be180dfeed1e2429503d2ce73123b1dc,Form,1,0,consent,NULL,biological sex,female
+1586962442,be180dfeed1e2429503d2ce73123b1dc,Form,1,0,consent,NULL,age,yes
+1586962442,be180dfeed1e2429503d2ce73123b1dc,Form,1,0,consent,NULL,parents' language,yes1
+1586962442,be180dfeed1e2429503d2ce73123b1dc,Form,1,0,consent,NULL,_REACTION_TIME_,28135
+1586962442,be180dfeed1e2429503d2ce73123b1dc,Form,3,0,instructions,NULL,_REACTION_TIME_,41210
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,54,0,practice.7P,NULL,She was the winner.
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,54,0,practice.7P,NULL,NULL,7,NULL,3170
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,55,0,practice.1P,NULL,Promise to wash%2C Neal did the car.
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,55,0,practice.1P,NULL,NULL,5,NULL,7168
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,56,0,practice.4P,NULL,The brother and sister that were playing all the time had to be sent to bed.
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,56,0,practice.4P,NULL,NULL,7,NULL,3258
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,57,0,practice.6P,NULL,The children were cared for by the adults and the teenagers.
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,57,0,practice.6P,NULL,NULL,7,NULL,1938
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,58,0,practice.2P,NULL,Ben is hopeful for everyone you do to attend.
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,58,0,practice.2P,NULL,NULL,3,NULL,6147
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,59,0,practice.5P,NULL,All the men seem to have all eaten supper.
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,59,0,practice.5P,NULL,NULL,7,NULL,4179
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,60,0,practice.3P,NULL,They consider a teacher of Chris geeky.
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,60,0,practice.3P,NULL,NULL,4,NULL,16394
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,38,0,unannonced.filler.7F.01,NULL,It seems to me that Robert can't be trusted.
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,38,0,unannonced.filler.7F.01,NULL,NULL,7,NULL,1775
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,39,0,unannonced.filler.1F.01,NULL,There might mice seem to be in the cupboard.
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,39,0,unannonced.filler.1F.01,NULL,NULL,4,NULL,4107
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,43,0,filler.2F.02,NULL,Lily will dance who the king chooses.
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,43,0,filler.2F.02,NULL,NULL,3,NULL,4308
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,44,0,filler.3F.01,NULL,The specimen thawed to study it more closely.
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,44,0,filler.3F.01,NULL,NULL,6,NULL,4803
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,21,0,test.adj.isl.long.bare.4.4,4,What did you yawn because the lecturer repeated?
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,21,0,test.adj.isl.long.bare.4.4,4,NULL,1,NULL,5210
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,48,0,filler.5F.01,NULL,The ball perfectly rolled down the hill.
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,48,0,filler.5F.01,NULL,NULL,7,NULL,2168
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,40,0,filler.1F.02,NULL,Mike prefers tennis because Jon baseball.
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,40,0,filler.1F.02,NULL,NULL,4,NULL,8431
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,37,0,test.adj.isl.long.bare.4.8,8,What did you cough because the witness repeated?
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,37,0,test.adj.isl.long.bare.4.8,8,NULL,2,NULL,4193
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,45,0,filler.3F.02,NULL,With that announcement were many citizens denied the opportunity to protest.
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,45,0,filler.3F.02,NULL,NULL,3,NULL,69163
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,51,0,filler.6F.02,NULL,Someone better sing the national anthem.
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,51,0,filler.6F.02,NULL,NULL,7,NULL,2099
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,27,0,test.adj.isl.short.bare.2.6,6,Who wavered because the speaker avoided the topic?
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,27,0,test.adj.isl.short.bare.2.6,6,NULL,5,NULL,4075
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,52,0,filler.7F.02,NULL,Laura is more excited than nervous.
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,52,0,filler.7F.02,NULL,NULL,7,NULL,2002
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1586962442,be180dfeed1e2429503d2ce73123b1dc,Form,4,0,open_ended_question1,NULL,required,I WOULD REFUSE IT. THE COLLEAGUE DESERVES IT MORE.
+1586962442,be180dfeed1e2429503d2ce73123b1dc,Form,4,0,open_ended_question1,NULL,_REACTION_TIME_,34884
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,41,0,filler.1F.03,NULL,Jenny cleaned her sister the table.
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,41,0,filler.1F.03,NULL,NULL,1,NULL,3244
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,11,0,test.adj.isl.short.bare.2.2,2,Who smiled because the candidate solved the problem?
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,11,0,test.adj.isl.short.bare.2.2,2,NULL,5,NULL,4386
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,47,0,filler.4F.02,NULL,Richard may have been hiding%2C but Blake may have done so too.
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,47,0,filler.4F.02,NULL,NULL,7,NULL,4378
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,16,0,test.adj.nonisl.long.bare.3.3,3,What did you think that the teenager ironed?
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,16,0,test.adj.nonisl.long.bare.3.3,3,NULL,6,NULL,3483
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,42,0,filler.2F.01,NULL,There had all hung over the fireplace the portraits by Picasso.
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,42,0,filler.2F.01,NULL,NULL,4,NULL,5157
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,46,0,filler.4F.01,NULL,There is likely a river to run down the mountain.
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,46,0,filler.4F.01,NULL,NULL,5,NULL,3694
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,6,0,test.adj.nonisl.short.bare.1.1,1,Who thought that the cook mangled the omelette?
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,6,0,test.adj.nonisl.short.bare.1.1,1,NULL,6,NULL,2962
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,53,0,filler.7F.03,NULL,I hate eating sushi.
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,53,0,filler.7F.03,NULL,NULL,7,NULL,1607
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,49,0,filler.5F.02,NULL,Lloyd Webber musicals are easy to condemn without even watching.
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,49,0,filler.5F.02,NULL,NULL,6,NULL,17416
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,22,0,test.adj.nonisl.short.bare.1.5,5,Who thought that the teenager sprinkled the pepper?
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,22,0,test.adj.nonisl.short.bare.1.5,5,NULL,6,NULL,4307
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,50,0,filler.6F.01,NULL,There are firemen injured.
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,50,0,filler.6F.01,NULL,NULL,7,NULL,3057
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,32,0,test.adj.nonisl.long.bare.3.7,7,What did you think that the assistant opened?
+1586962442,be180dfeed1e2429503d2ce73123b1dc,AcceptabilityJudgment,32,0,test.adj.nonisl.long.bare.3.7,7,NULL,6,NULL,2022
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1586962442,be180dfeed1e2429503d2ce73123b1dc,Form,5,0,open_ended_question2,NULL,required,I would not say anything. That could be an innocent meeting%2C who knows.
+1586962442,be180dfeed1e2429503d2ce73123b1dc,Form,5,0,open_ended_question2,NULL,_REACTION_TIME_,37749
+1586962442,be180dfeed1e2429503d2ce73123b1dc,Form,2,0,exit,NULL,randomfield,s6UWsnqx
+1586962442,be180dfeed1e2429503d2ce73123b1dc,Form,2,0,exit,NULL,worker_id,A2A6FH0F7LD9ND
+1586962442,be180dfeed1e2429503d2ce73123b1dc,Form,2,0,exit,NULL,identifier,s6UWsnqx
+1586962442,be180dfeed1e2429503d2ce73123b1dc,Form,2,0,exit,NULL,_REACTION_TIME_,12581
+#
+# Results on Wednesday April 15 2020 14:57:53 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+# Design number was non-random = 0
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1586962673,521e1f8473b6a876989d399bb1885429,Form,1,0,consent,NULL,age,45
+1586962673,521e1f8473b6a876989d399bb1885429,Form,1,0,consent,NULL,state name,CA
+1586962673,521e1f8473b6a876989d399bb1885429,Form,1,0,consent,NULL,biological sex,female
+1586962673,521e1f8473b6a876989d399bb1885429,Form,1,0,consent,NULL,age,yes
+1586962673,521e1f8473b6a876989d399bb1885429,Form,1,0,consent,NULL,parents' language,yes1
+1586962673,521e1f8473b6a876989d399bb1885429,Form,1,0,consent,NULL,_REACTION_TIME_,22899
+1586962673,521e1f8473b6a876989d399bb1885429,Form,3,0,instructions,NULL,_REACTION_TIME_,46929
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,54,0,practice.7P,NULL,She was the winner.
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,54,0,practice.7P,NULL,NULL,7,NULL,3056
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,55,0,practice.1P,NULL,Promise to wash%2C Neal did the car.
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,55,0,practice.1P,NULL,NULL,1,NULL,3037
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,56,0,practice.4P,NULL,The brother and sister that were playing all the time had to be sent to bed.
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,56,0,practice.4P,NULL,NULL,5,NULL,4809
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,57,0,practice.6P,NULL,The children were cared for by the adults and the teenagers.
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,57,0,practice.6P,NULL,NULL,6,NULL,6108
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,58,0,practice.2P,NULL,Ben is hopeful for everyone you do to attend.
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,58,0,practice.2P,NULL,NULL,1,NULL,3500
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,59,0,practice.5P,NULL,All the men seem to have all eaten supper.
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,59,0,practice.5P,NULL,NULL,4,NULL,4661
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,60,0,practice.3P,NULL,They consider a teacher of Chris geeky.
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,60,0,practice.3P,NULL,NULL,3,NULL,6455
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,38,0,unannonced.filler.7F.01,NULL,It seems to me that Robert can't be trusted.
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,38,0,unannonced.filler.7F.01,NULL,NULL,7,NULL,3512
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,39,0,unannonced.filler.1F.01,NULL,There might mice seem to be in the cupboard.
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,39,0,unannonced.filler.1F.01,NULL,NULL,1,NULL,3843
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,42,0,filler.2F.01,NULL,There had all hung over the fireplace the portraits by Picasso.
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,42,0,filler.2F.01,NULL,NULL,3,NULL,6620
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,27,0,test.adj.isl.short.bare.2.6,6,Who wavered because the speaker avoided the topic?
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,27,0,test.adj.isl.short.bare.2.6,6,NULL,4,NULL,7370
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,40,0,filler.1F.02,NULL,Mike prefers tennis because Jon baseball.
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,40,0,filler.1F.02,NULL,NULL,1,NULL,2871
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,46,0,filler.4F.01,NULL,There is likely a river to run down the mountain.
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,46,0,filler.4F.01,NULL,NULL,3,NULL,5434
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,37,0,test.adj.isl.long.bare.4.8,8,What did you cough because the witness repeated?
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,37,0,test.adj.isl.long.bare.4.8,8,NULL,1,NULL,3332
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,44,0,filler.3F.01,NULL,The specimen thawed to study it more closely.
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,44,0,filler.3F.01,NULL,NULL,2,NULL,8173
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,41,0,filler.1F.03,NULL,Jenny cleaned her sister the table.
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,41,0,filler.1F.03,NULL,NULL,1,NULL,3180
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,16,0,test.adj.nonisl.long.bare.3.3,3,What did you think that the teenager ironed?
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,16,0,test.adj.nonisl.long.bare.3.3,3,NULL,5,NULL,4706
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,53,0,filler.7F.03,NULL,I hate eating sushi.
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,53,0,filler.7F.03,NULL,NULL,7,NULL,1958
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,49,0,filler.5F.02,NULL,Lloyd Webber musicals are easy to condemn without even watching.
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,49,0,filler.5F.02,NULL,NULL,5,NULL,4543
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,22,0,test.adj.nonisl.short.bare.1.5,5,Who thought that the teenager sprinkled the pepper?
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,22,0,test.adj.nonisl.short.bare.1.5,5,NULL,6,NULL,5362
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1586962673,521e1f8473b6a876989d399bb1885429,Form,4,0,open_ended_question1,NULL,required,I would tell my boss that while I appreciated his offer%2C I didn't really deserve a raise based on that particular project. Instead%2C he should offer the raise to my colleague.
+1586962673,521e1f8473b6a876989d399bb1885429,Form,4,0,open_ended_question1,NULL,_REACTION_TIME_,61085
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,48,0,filler.5F.01,NULL,The ball perfectly rolled down the hill.
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,48,0,filler.5F.01,NULL,NULL,4,NULL,5175
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,11,0,test.adj.isl.short.bare.2.2,2,Who smiled because the candidate solved the problem?
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,11,0,test.adj.isl.short.bare.2.2,2,NULL,5,NULL,2874
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,47,0,filler.4F.02,NULL,Richard may have been hiding%2C but Blake may have done so too.
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,47,0,filler.4F.02,NULL,NULL,5,NULL,8548
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,52,0,filler.7F.02,NULL,Laura is more excited than nervous.
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,52,0,filler.7F.02,NULL,NULL,7,NULL,2966
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,6,0,test.adj.nonisl.short.bare.1.1,1,Who thought that the cook mangled the omelette?
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,6,0,test.adj.nonisl.short.bare.1.1,1,NULL,6,NULL,3941
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,45,0,filler.3F.02,NULL,With that announcement were many citizens denied the opportunity to protest.
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,45,0,filler.3F.02,NULL,NULL,3,NULL,4749
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,50,0,filler.6F.01,NULL,There are firemen injured.
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,50,0,filler.6F.01,NULL,NULL,4,NULL,4602
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,32,0,test.adj.nonisl.long.bare.3.7,7,What did you think that the assistant opened?
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,32,0,test.adj.nonisl.long.bare.3.7,7,NULL,6,NULL,3320
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,43,0,filler.2F.02,NULL,Lily will dance who the king chooses.
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,43,0,filler.2F.02,NULL,NULL,1,NULL,5847
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,51,0,filler.6F.02,NULL,Someone better sing the national anthem.
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,51,0,filler.6F.02,NULL,NULL,7,NULL,3120
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,21,0,test.adj.isl.long.bare.4.4,4,What did you yawn because the lecturer repeated?
+1586962673,521e1f8473b6a876989d399bb1885429,AcceptabilityJudgment,21,0,test.adj.isl.long.bare.4.4,4,NULL,1,NULL,4040
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1586962673,521e1f8473b6a876989d399bb1885429,Form,5,0,open_ended_question2,NULL,required,I would not tell my friend that I saw her partner at the restaurant.
+1586962673,521e1f8473b6a876989d399bb1885429,Form,5,0,open_ended_question2,NULL,_REACTION_TIME_,104864
+1586962673,521e1f8473b6a876989d399bb1885429,Form,2,0,exit,NULL,randomfield,2D9QIDVU
+1586962673,521e1f8473b6a876989d399bb1885429,Form,2,0,exit,NULL,worker_id,A2GOYSTIL3LOV1
+1586962673,521e1f8473b6a876989d399bb1885429,Form,2,0,exit,NULL,identifier,2D9QIDVU
+1586962673,521e1f8473b6a876989d399bb1885429,Form,2,0,exit,NULL,_REACTION_TIME_,25892
+#
+# Results on Wednesday April 15 2020 15:01:50 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+# Design number was non-random = 0
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,Form,1,0,consent,NULL,age,30
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,Form,1,0,consent,NULL,state name,MO
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,Form,1,0,consent,NULL,biological sex,female
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,Form,1,0,consent,NULL,age,yes
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,Form,1,0,consent,NULL,parents' language,yes1
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,Form,1,0,consent,NULL,_REACTION_TIME_,50902
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,Form,3,0,instructions,NULL,_REACTION_TIME_,25212
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,54,0,practice.7P,NULL,She was the winner.
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,54,0,practice.7P,NULL,NULL,7,NULL,2367
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,55,0,practice.1P,NULL,Promise to wash%2C Neal did the car.
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,55,0,practice.1P,NULL,NULL,1,NULL,3368
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,56,0,practice.4P,NULL,The brother and sister that were playing all the time had to be sent to bed.
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,56,0,practice.4P,NULL,NULL,5,NULL,7475
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,57,0,practice.6P,NULL,The children were cared for by the adults and the teenagers.
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,57,0,practice.6P,NULL,NULL,7,NULL,3010
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,58,0,practice.2P,NULL,Ben is hopeful for everyone you do to attend.
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,58,0,practice.2P,NULL,NULL,1,NULL,6520
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,59,0,practice.5P,NULL,All the men seem to have all eaten supper.
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,59,0,practice.5P,NULL,NULL,1,NULL,2973
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,60,0,practice.3P,NULL,They consider a teacher of Chris geeky.
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,60,0,practice.3P,NULL,NULL,3,NULL,5104
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,38,0,unannonced.filler.7F.01,NULL,It seems to me that Robert can't be trusted.
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,38,0,unannonced.filler.7F.01,NULL,NULL,7,NULL,1805
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,39,0,unannonced.filler.1F.01,NULL,There might mice seem to be in the cupboard.
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,39,0,unannonced.filler.1F.01,NULL,NULL,1,NULL,3144
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,49,0,filler.5F.02,NULL,Lloyd Webber musicals are easy to condemn without even watching.
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,49,0,filler.5F.02,NULL,NULL,2,NULL,2330
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,44,0,filler.3F.01,NULL,The specimen thawed to study it more closely.
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,44,0,filler.3F.01,NULL,NULL,3,NULL,3009
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,6,0,test.adj.nonisl.short.bare.1.1,1,Who thought that the cook mangled the omelette?
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,6,0,test.adj.nonisl.short.bare.1.1,1,NULL,5,NULL,2983
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,43,0,filler.2F.02,NULL,Lily will dance who the king chooses.
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,43,0,filler.2F.02,NULL,NULL,1,NULL,3122
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,53,0,filler.7F.03,NULL,I hate eating sushi.
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,53,0,filler.7F.03,NULL,NULL,7,NULL,2162
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,32,0,test.adj.nonisl.long.bare.3.7,7,What did you think that the assistant opened?
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,32,0,test.adj.nonisl.long.bare.3.7,7,NULL,1,NULL,4268
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,51,0,filler.6F.02,NULL,Someone better sing the national anthem.
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,51,0,filler.6F.02,NULL,NULL,4,NULL,3079
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,47,0,filler.4F.02,NULL,Richard may have been hiding%2C but Blake may have done so too.
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,47,0,filler.4F.02,NULL,NULL,7,NULL,2951
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,16,0,test.adj.nonisl.long.bare.3.3,3,What did you think that the teenager ironed?
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,16,0,test.adj.nonisl.long.bare.3.3,3,NULL,1,NULL,3075
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,41,0,filler.1F.03,NULL,Jenny cleaned her sister the table.
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,41,0,filler.1F.03,NULL,NULL,1,NULL,2400
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,40,0,filler.1F.02,NULL,Mike prefers tennis because Jon baseball.
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,40,0,filler.1F.02,NULL,NULL,1,NULL,2329
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,Form,4,0,open_ended_question1,NULL,required,I would accept the raise but I also would mention that my colleague contributed to this project a great deal.
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,Form,4,0,open_ended_question1,NULL,_REACTION_TIME_,89360
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,27,0,test.adj.isl.short.bare.2.6,6,Who wavered because the speaker avoided the topic?
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,27,0,test.adj.isl.short.bare.2.6,6,NULL,1,NULL,3404
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,48,0,filler.5F.01,NULL,The ball perfectly rolled down the hill.
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,48,0,filler.5F.01,NULL,NULL,7,NULL,1870
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,22,0,test.adj.nonisl.short.bare.1.5,5,Who thought that the teenager sprinkled the pepper?
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,22,0,test.adj.nonisl.short.bare.1.5,5,NULL,4,NULL,1787
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,46,0,filler.4F.01,NULL,There is likely a river to run down the mountain.
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,46,0,filler.4F.01,NULL,NULL,7,NULL,1771
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,50,0,filler.6F.01,NULL,There are firemen injured.
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,50,0,filler.6F.01,NULL,NULL,7,NULL,154913
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,21,0,test.adj.isl.long.bare.4.4,4,What did you yawn because the lecturer repeated?
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,21,0,test.adj.isl.long.bare.4.4,4,NULL,1,NULL,3576
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,42,0,filler.2F.01,NULL,There had all hung over the fireplace the portraits by Picasso.
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,42,0,filler.2F.01,NULL,NULL,1,NULL,6285
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,45,0,filler.3F.02,NULL,With that announcement were many citizens denied the opportunity to protest.
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,45,0,filler.3F.02,NULL,NULL,1,NULL,3044
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,11,0,test.adj.isl.short.bare.2.2,2,Who smiled because the candidate solved the problem?
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,11,0,test.adj.isl.short.bare.2.2,2,NULL,1,NULL,1749
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,52,0,filler.7F.02,NULL,Laura is more excited than nervous.
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,52,0,filler.7F.02,NULL,NULL,7,NULL,1283
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,37,0,test.adj.isl.long.bare.4.8,8,What did you cough because the witness repeated?
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,AcceptabilityJudgment,37,0,test.adj.isl.long.bare.4.8,8,NULL,2,NULL,1966
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,Form,5,0,open_ended_question2,NULL,required,I would tell that to my friend.
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,Form,5,0,open_ended_question2,NULL,_REACTION_TIME_,19475
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,Form,2,0,exit,NULL,randomfield,IGIi2IhI
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,Form,2,0,exit,NULL,worker_id,A26ST4UX73VPLW
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,Form,2,0,exit,NULL,identifier,IGIi2IhI
+1586962911,20cbbff2bc7f79529ba4d2aa4a4c75e3,Form,2,0,exit,NULL,_REACTION_TIME_,17146
+#
+# Results on Wednesday April 15 2020 15:13:24 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36
+# Design number was non-random = 1
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1586963605,a6e86a2568b041834339cf5916681865,Form,1,0,consent,NULL,age,54
+1586963605,a6e86a2568b041834339cf5916681865,Form,1,0,consent,NULL,state name,VA
+1586963605,a6e86a2568b041834339cf5916681865,Form,1,0,consent,NULL,biological sex,female
+1586963605,a6e86a2568b041834339cf5916681865,Form,1,0,consent,NULL,age,yes
+1586963605,a6e86a2568b041834339cf5916681865,Form,1,0,consent,NULL,parents' language,yes1
+1586963605,a6e86a2568b041834339cf5916681865,Form,1,0,consent,NULL,_REACTION_TIME_,22299
+1586963605,a6e86a2568b041834339cf5916681865,Form,3,0,instructions,NULL,_REACTION_TIME_,141895
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,54,0,practice.7P,NULL,She was the winner.
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,54,0,practice.7P,NULL,NULL,7,NULL,5820
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,55,0,practice.1P,NULL,Promise to wash%2C Neal did the car.
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,55,0,practice.1P,NULL,NULL,1,NULL,16693
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,56,0,practice.4P,NULL,The brother and sister that were playing all the time had to be sent to bed.
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,56,0,practice.4P,NULL,NULL,5,NULL,13139
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,57,0,practice.6P,NULL,The children were cared for by the adults and the teenagers.
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,57,0,practice.6P,NULL,NULL,6,NULL,17485
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,58,0,practice.2P,NULL,Ben is hopeful for everyone you do to attend.
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,58,0,practice.2P,NULL,NULL,1,NULL,10117
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,59,0,practice.5P,NULL,All the men seem to have all eaten supper.
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,59,0,practice.5P,NULL,NULL,4,NULL,14308
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,60,0,practice.3P,NULL,They consider a teacher of Chris geeky.
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,60,0,practice.3P,NULL,NULL,5,NULL,17223
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,38,0,unannonced.filler.7F.01,NULL,It seems to me that Robert can't be trusted.
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,38,0,unannonced.filler.7F.01,NULL,NULL,7,NULL,5250
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,39,0,unannonced.filler.1F.01,NULL,There might mice seem to be in the cupboard.
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,39,0,unannonced.filler.1F.01,NULL,NULL,2,NULL,10802
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,51,0,filler.6F.02,NULL,Someone better sing the national anthem.
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,51,0,filler.6F.02,NULL,NULL,6,NULL,15636
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,43,0,filler.2F.02,NULL,Lily will dance who the king chooses.
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,43,0,filler.2F.02,NULL,NULL,2,NULL,6423
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,23,0,test.adj.isl.short.bare.2.5,5,Who sneezed because the teenager sprinkled the pepper?
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,23,0,test.adj.isl.short.bare.2.5,5,NULL,6,NULL,12779
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,42,0,filler.2F.01,NULL,There had all hung over the fireplace the portraits by Picasso.
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,42,0,filler.2F.01,NULL,NULL,3,NULL,12432
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,44,0,filler.3F.01,NULL,The specimen thawed to study it more closely.
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,44,0,filler.3F.01,NULL,NULL,4,NULL,20202
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,17,0,test.adj.isl.long.bare.4.3,3,What did you smile because the teenager ironed?
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,17,0,test.adj.isl.long.bare.4.3,3,NULL,1,NULL,15322
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,48,0,filler.5F.01,NULL,The ball perfectly rolled down the hill.
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,48,0,filler.5F.01,NULL,NULL,6,NULL,26699
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,52,0,filler.7F.02,NULL,Laura is more excited than nervous.
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,52,0,filler.7F.02,NULL,NULL,7,NULL,3058
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,18,0,test.adj.nonisl.short.bare.1.4,4,Who thought that the lecturer repeated the story?
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,18,0,test.adj.nonisl.short.bare.1.4,4,NULL,7,NULL,7928
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,46,0,filler.4F.01,NULL,There is likely a river to run down the mountain.
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,46,0,filler.4F.01,NULL,NULL,5,NULL,30614
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,49,0,filler.5F.02,NULL,Lloyd Webber musicals are easy to condemn without even watching.
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,49,0,filler.5F.02,NULL,NULL,6,NULL,12703
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1586963605,a6e86a2568b041834339cf5916681865,Form,4,0,open_ended_question1,NULL,required,I would tell my boss that I worked on the project with my colleague.
+1586963605,a6e86a2568b041834339cf5916681865,Form,4,0,open_ended_question1,NULL,_REACTION_TIME_,67753
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,12,0,test.adj.nonisl.long.bare.3.2,2,What did you think that the candidate solved?
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,12,0,test.adj.nonisl.long.bare.3.2,2,NULL,7,NULL,10024
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,40,0,filler.1F.02,NULL,Mike prefers tennis because Jon baseball.
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,40,0,filler.1F.02,NULL,NULL,4,NULL,8931
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,28,0,test.adj.nonisl.long.bare.3.6,6,What did you think that the speaker avoided?
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,28,0,test.adj.nonisl.long.bare.3.6,6,NULL,7,NULL,7190
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,53,0,filler.7F.03,NULL,I hate eating sushi.
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,53,0,filler.7F.03,NULL,NULL,7,NULL,1858
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,50,0,filler.6F.01,NULL,There are firemen injured.
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,50,0,filler.6F.01,NULL,NULL,7,NULL,4377
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,33,0,test.adj.isl.long.bare.4.7,7,What did you sneeze because the assistant opened?
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,33,0,test.adj.isl.long.bare.4.7,7,NULL,3,NULL,7179
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,45,0,filler.3F.02,NULL,With that announcement were many citizens denied the opportunity to protest.
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,45,0,filler.3F.02,NULL,NULL,3,NULL,88791
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,47,0,filler.4F.02,NULL,Richard may have been hiding%2C but Blake may have done so too.
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,47,0,filler.4F.02,NULL,NULL,5,NULL,169256
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,34,0,test.adj.nonisl.short.bare.1.8,8,Who thought that the witness repeated the insult?
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,34,0,test.adj.nonisl.short.bare.1.8,8,NULL,5,NULL,72035
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,41,0,filler.1F.03,NULL,Jenny cleaned her sister the table.
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,41,0,filler.1F.03,NULL,NULL,1,NULL,4410
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,7,0,test.adj.isl.short.bare.2.1,1,Who laughed because the cook mangled the omelette?
+1586963605,a6e86a2568b041834339cf5916681865,AcceptabilityJudgment,7,0,test.adj.isl.short.bare.2.1,1,NULL,6,NULL,6498
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1586963605,a6e86a2568b041834339cf5916681865,Form,5,0,open_ended_question2,NULL,required,I would let my friend know what I saw.
+1586963605,a6e86a2568b041834339cf5916681865,Form,5,0,open_ended_question2,NULL,_REACTION_TIME_,117699
+1586963605,a6e86a2568b041834339cf5916681865,Form,2,0,exit,NULL,randomfield,mebN5qWo
+1586963605,a6e86a2568b041834339cf5916681865,Form,2,0,exit,NULL,worker_id,AT5P2JKIUHFYP
+1586963605,a6e86a2568b041834339cf5916681865,Form,2,0,exit,NULL,identifier,mebN5qWo
+1586963605,a6e86a2568b041834339cf5916681865,Form,2,0,exit,NULL,_REACTION_TIME_,38345
+#
+# Results on Wednesday April 15 2020 15:25:11 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36
+# Design number was non-random = 4
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,Form,1,0,consent,NULL,age,34
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,Form,1,0,consent,NULL,state name,NY
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,Form,1,0,consent,NULL,biological sex,female
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,Form,1,0,consent,NULL,age,yes
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,Form,1,0,consent,NULL,parents' language,yes1
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,Form,1,0,consent,NULL,_REACTION_TIME_,15675
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,Form,3,0,instructions,NULL,_REACTION_TIME_,3979
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,54,0,practice.7P,NULL,She was the winner.
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,54,0,practice.7P,NULL,NULL,7,NULL,2126
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,55,0,practice.1P,NULL,Promise to wash%2C Neal did the car.
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,55,0,practice.1P,NULL,NULL,4,NULL,2830
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,56,0,practice.4P,NULL,The brother and sister that were playing all the time had to be sent to bed.
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,56,0,practice.4P,NULL,NULL,4,NULL,5322
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,57,0,practice.6P,NULL,The children were cared for by the adults and the teenagers.
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,57,0,practice.6P,NULL,NULL,6,NULL,7979
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,58,0,practice.2P,NULL,Ben is hopeful for everyone you do to attend.
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,58,0,practice.2P,NULL,NULL,4,NULL,7916
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,59,0,practice.5P,NULL,All the men seem to have all eaten supper.
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,59,0,practice.5P,NULL,NULL,7,NULL,11942
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,60,0,practice.3P,NULL,They consider a teacher of Chris geeky.
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,60,0,practice.3P,NULL,NULL,3,NULL,4350
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,38,0,unannonced.filler.7F.01,NULL,It seems to me that Robert can't be trusted.
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,38,0,unannonced.filler.7F.01,NULL,NULL,5,NULL,21493
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,39,0,unannonced.filler.1F.01,NULL,There might mice seem to be in the cupboard.
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,39,0,unannonced.filler.1F.01,NULL,NULL,4,NULL,1066
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,46,0,filler.4F.01,NULL,There is likely a river to run down the mountain.
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,46,0,filler.4F.01,NULL,NULL,4,NULL,5411
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,50,0,filler.6F.01,NULL,There are firemen injured.
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,50,0,filler.6F.01,NULL,NULL,6,NULL,1923
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,16,0,test.adj.nonisl.long.bare.3.3,3,What did you think that the teenager ironed?
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,16,0,test.adj.nonisl.long.bare.3.3,3,NULL,5,NULL,4050
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,40,0,filler.1F.02,NULL,Mike prefers tennis because Jon baseball.
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,40,0,filler.1F.02,NULL,NULL,4,NULL,988
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,42,0,filler.2F.01,NULL,There had all hung over the fireplace the portraits by Picasso.
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,42,0,filler.2F.01,NULL,NULL,5,NULL,5699
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,11,0,test.adj.isl.short.bare.2.2,2,Who smiled because the candidate solved the problem?
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,11,0,test.adj.isl.short.bare.2.2,2,NULL,2,NULL,9019
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,53,0,filler.7F.03,NULL,I hate eating sushi.
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,53,0,filler.7F.03,NULL,NULL,5,NULL,418
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,47,0,filler.4F.02,NULL,Richard may have been hiding%2C but Blake may have done so too.
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,47,0,filler.4F.02,NULL,NULL,4,NULL,2599
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,6,0,test.adj.nonisl.short.bare.1.1,1,Who thought that the cook mangled the omelette?
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,6,0,test.adj.nonisl.short.bare.1.1,1,NULL,3,NULL,1506
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,45,0,filler.3F.02,NULL,With that announcement were many citizens denied the opportunity to protest.
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,45,0,filler.3F.02,NULL,NULL,2,NULL,77406
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,41,0,filler.1F.03,NULL,Jenny cleaned her sister the table.
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,41,0,filler.1F.03,NULL,NULL,1,NULL,105936
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,Form,4,0,open_ended_question1,NULL,required,So I have to say that John actually helped out with a ton of the work. He deserves a raise.
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,Form,4,0,open_ended_question1,NULL,_REACTION_TIME_,20612
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,37,0,test.adj.isl.long.bare.4.8,8,What did you cough because the witness repeated?
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,37,0,test.adj.isl.long.bare.4.8,8,NULL,1,NULL,2935
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,51,0,filler.6F.02,NULL,Someone better sing the national anthem.
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,51,0,filler.6F.02,NULL,NULL,6,NULL,2248
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,21,0,test.adj.isl.long.bare.4.4,4,What did you yawn because the lecturer repeated?
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,21,0,test.adj.isl.long.bare.4.4,4,NULL,2,NULL,4471
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,48,0,filler.5F.01,NULL,The ball perfectly rolled down the hill.
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,48,0,filler.5F.01,NULL,NULL,6,NULL,2079
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,43,0,filler.2F.02,NULL,Lily will dance who the king chooses.
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,43,0,filler.2F.02,NULL,NULL,2,NULL,2660
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,27,0,test.adj.isl.short.bare.2.6,6,Who wavered because the speaker avoided the topic?
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,27,0,test.adj.isl.short.bare.2.6,6,NULL,4,NULL,3711
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,49,0,filler.5F.02,NULL,Lloyd Webber musicals are easy to condemn without even watching.
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,49,0,filler.5F.02,NULL,NULL,6,NULL,2018
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,44,0,filler.3F.01,NULL,The specimen thawed to study it more closely.
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,44,0,filler.3F.01,NULL,NULL,6,NULL,19796
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,22,0,test.adj.nonisl.short.bare.1.5,5,Who thought that the teenager sprinkled the pepper?
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,22,0,test.adj.nonisl.short.bare.1.5,5,NULL,3,NULL,5035
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,52,0,filler.7F.02,NULL,Laura is more excited than nervous.
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,52,0,filler.7F.02,NULL,NULL,6,NULL,23781
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,32,0,test.adj.nonisl.long.bare.3.7,7,What did you think that the assistant opened?
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,AcceptabilityJudgment,32,0,test.adj.nonisl.long.bare.3.7,7,NULL,5,NULL,2306
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,Form,5,0,open_ended_question2,NULL,required,I wouldn't say anything at all. Not my problem.
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,Form,5,0,open_ended_question2,NULL,_REACTION_TIME_,11204
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,Form,2,0,exit,NULL,randomfield,xenEwAAH
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,Form,2,0,exit,NULL,worker_id,A2YOVBJ9EXAI8W
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,Form,2,0,exit,NULL,identifier,xenEwAAH
+1586964312,f21ffeacfa9de46b9f29a0eb4a12c246,Form,2,0,exit,NULL,_REACTION_TIME_,6473
+#
+# Results on Wednesday April 15 2020 15:27:38 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+# Design number was non-random = 4
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,Form,1,0,consent,NULL,age,50
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,Form,1,0,consent,NULL,state name,il
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,Form,1,0,consent,NULL,biological sex,male
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,Form,1,0,consent,NULL,age,yes
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,Form,1,0,consent,NULL,parents' language,yes1
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,Form,1,0,consent,NULL,_REACTION_TIME_,75342
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,Form,3,0,instructions,NULL,_REACTION_TIME_,29340
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,54,0,practice.7P,NULL,She was the winner.
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,54,0,practice.7P,NULL,NULL,7,NULL,3308
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,55,0,practice.1P,NULL,Promise to wash%2C Neal did the car.
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,55,0,practice.1P,NULL,NULL,1,NULL,3962
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,56,0,practice.4P,NULL,The brother and sister that were playing all the time had to be sent to bed.
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,56,0,practice.4P,NULL,NULL,3,NULL,5951
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,57,0,practice.6P,NULL,The children were cared for by the adults and the teenagers.
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,57,0,practice.6P,NULL,NULL,7,NULL,5826
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,58,0,practice.2P,NULL,Ben is hopeful for everyone you do to attend.
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,58,0,practice.2P,NULL,NULL,2,NULL,4536
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,59,0,practice.5P,NULL,All the men seem to have all eaten supper.
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,59,0,practice.5P,NULL,NULL,5,NULL,7500
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,60,0,practice.3P,NULL,They consider a teacher of Chris geeky.
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,60,0,practice.3P,NULL,NULL,1,NULL,5542
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,38,0,unannonced.filler.7F.01,NULL,It seems to me that Robert can't be trusted.
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,38,0,unannonced.filler.7F.01,NULL,NULL,7,NULL,4106
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,39,0,unannonced.filler.1F.01,NULL,There might mice seem to be in the cupboard.
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,39,0,unannonced.filler.1F.01,NULL,NULL,2,NULL,4349
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,45,0,filler.3F.02,NULL,With that announcement were many citizens denied the opportunity to protest.
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,45,0,filler.3F.02,NULL,NULL,2,NULL,7631
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,6,0,test.adj.nonisl.short.bare.1.1,1,Who thought that the cook mangled the omelette?
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,6,0,test.adj.nonisl.short.bare.1.1,1,NULL,7,NULL,4954
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,43,0,filler.2F.02,NULL,Lily will dance who the king chooses.
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,43,0,filler.2F.02,NULL,NULL,2,NULL,3542
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,53,0,filler.7F.03,NULL,I hate eating sushi.
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,53,0,filler.7F.03,NULL,NULL,7,NULL,2369
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,11,0,test.adj.isl.short.bare.2.2,2,Who smiled because the candidate solved the problem?
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,11,0,test.adj.isl.short.bare.2.2,2,NULL,6,NULL,4815
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,52,0,filler.7F.02,NULL,Laura is more excited than nervous.
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,52,0,filler.7F.02,NULL,NULL,7,NULL,3507
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,46,0,filler.4F.01,NULL,There is likely a river to run down the mountain.
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,46,0,filler.4F.01,NULL,NULL,5,NULL,5498
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,21,0,test.adj.isl.long.bare.4.4,4,What did you yawn because the lecturer repeated?
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,21,0,test.adj.isl.long.bare.4.4,4,NULL,2,NULL,3510
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,50,0,filler.6F.01,NULL,There are firemen injured.
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,50,0,filler.6F.01,NULL,NULL,7,NULL,3066
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,42,0,filler.2F.01,NULL,There had all hung over the fireplace the portraits by Picasso.
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,42,0,filler.2F.01,NULL,NULL,4,NULL,7514
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,Form,4,0,open_ended_question1,NULL,required,take the raise and spend it.  as long as i contributed i deserve the raise.
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,Form,4,0,open_ended_question1,NULL,_REACTION_TIME_,52307
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,27,0,test.adj.isl.short.bare.2.6,6,Who wavered because the speaker avoided the topic?
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,27,0,test.adj.isl.short.bare.2.6,6,NULL,6,NULL,9374
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,49,0,filler.5F.02,NULL,Lloyd Webber musicals are easy to condemn without even watching.
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,49,0,filler.5F.02,NULL,NULL,7,NULL,8988
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,32,0,test.adj.nonisl.long.bare.3.7,7,What did you think that the assistant opened?
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,32,0,test.adj.nonisl.long.bare.3.7,7,NULL,6,NULL,6689
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,44,0,filler.3F.01,NULL,The specimen thawed to study it more closely.
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,44,0,filler.3F.01,NULL,NULL,5,NULL,4383
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,41,0,filler.1F.03,NULL,Jenny cleaned her sister the table.
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,41,0,filler.1F.03,NULL,NULL,2,NULL,3012
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,16,0,test.adj.nonisl.long.bare.3.3,3,What did you think that the teenager ironed?
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,16,0,test.adj.nonisl.long.bare.3.3,3,NULL,7,NULL,4671
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,47,0,filler.4F.02,NULL,Richard may have been hiding%2C but Blake may have done so too.
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,47,0,filler.4F.02,NULL,NULL,6,NULL,4572
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,48,0,filler.5F.01,NULL,The ball perfectly rolled down the hill.
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,48,0,filler.5F.01,NULL,NULL,7,NULL,3109
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,22,0,test.adj.nonisl.short.bare.1.5,5,Who thought that the teenager sprinkled the pepper?
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,22,0,test.adj.nonisl.short.bare.1.5,5,NULL,7,NULL,6689
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,51,0,filler.6F.02,NULL,Someone better sing the national anthem.
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,51,0,filler.6F.02,NULL,NULL,7,NULL,3288
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,40,0,filler.1F.02,NULL,Mike prefers tennis because Jon baseball.
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,40,0,filler.1F.02,NULL,NULL,2,NULL,4099
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,37,0,test.adj.isl.long.bare.4.8,8,What did you cough because the witness repeated?
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,AcceptabilityJudgment,37,0,test.adj.isl.long.bare.4.8,8,NULL,2,NULL,3162
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,Form,5,0,open_ended_question2,NULL,required,i would behave in a manner that i would protect my friend.  i knew him longer and have more loyalty to him
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,Form,5,0,open_ended_question2,NULL,_REACTION_TIME_,55088
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,Form,2,0,exit,NULL,randomfield,KVKvBDM5
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,Form,2,0,exit,NULL,worker_id,AP4A0MZOKR52J
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,Form,2,0,exit,NULL,identifier,KVKvBDM5
+1586964458,c12eb9f63a3a2a5df12a35114aaf9515,Form,2,0,exit,NULL,_REACTION_TIME_,23185
+#
+# Results on Wednesday April 15 2020 16:37:38 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+# Design number was non-random = 6
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1586968658,695f53ef2cbed85f09a9ad57c2304594,Form,1,0,consent,NULL,age,31
+1586968658,695f53ef2cbed85f09a9ad57c2304594,Form,1,0,consent,NULL,state name,FL
+1586968658,695f53ef2cbed85f09a9ad57c2304594,Form,1,0,consent,NULL,biological sex,male
+1586968658,695f53ef2cbed85f09a9ad57c2304594,Form,1,0,consent,NULL,age,yes
+1586968658,695f53ef2cbed85f09a9ad57c2304594,Form,1,0,consent,NULL,parents' language,yes1
+1586968658,695f53ef2cbed85f09a9ad57c2304594,Form,1,0,consent,NULL,_REACTION_TIME_,16746
+1586968658,695f53ef2cbed85f09a9ad57c2304594,Form,3,0,instructions,NULL,_REACTION_TIME_,9634
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,54,0,practice.7P,NULL,She was the winner.
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,54,0,practice.7P,NULL,NULL,6,NULL,3906
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,55,0,practice.1P,NULL,Promise to wash%2C Neal did the car.
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,55,0,practice.1P,NULL,NULL,2,NULL,3468
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,56,0,practice.4P,NULL,The brother and sister that were playing all the time had to be sent to bed.
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,56,0,practice.4P,NULL,NULL,5,NULL,4791
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,57,0,practice.6P,NULL,The children were cared for by the adults and the teenagers.
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,57,0,practice.6P,NULL,NULL,6,NULL,2660
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,58,0,practice.2P,NULL,Ben is hopeful for everyone you do to attend.
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,58,0,practice.2P,NULL,NULL,3,NULL,4251
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,59,0,practice.5P,NULL,All the men seem to have all eaten supper.
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,59,0,practice.5P,NULL,NULL,6,NULL,3049
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,60,0,practice.3P,NULL,They consider a teacher of Chris geeky.
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,60,0,practice.3P,NULL,NULL,4,NULL,5052
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,38,0,unannonced.filler.7F.01,NULL,It seems to me that Robert can't be trusted.
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,38,0,unannonced.filler.7F.01,NULL,NULL,7,NULL,2457
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,39,0,unannonced.filler.1F.01,NULL,There might mice seem to be in the cupboard.
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,39,0,unannonced.filler.1F.01,NULL,NULL,2,NULL,4543
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,45,0,filler.3F.02,NULL,With that announcement were many citizens denied the opportunity to protest.
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,45,0,filler.3F.02,NULL,NULL,4,NULL,5579
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,19,0,test.adj.isl.short.bare.2.4,4,Who yawned because the lecturer repeated the story?
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,19,0,test.adj.isl.short.bare.2.4,4,NULL,5,NULL,4913
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,44,0,filler.3F.01,NULL,The specimen thawed to study it more closely.
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,44,0,filler.3F.01,NULL,NULL,2,NULL,4583
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,51,0,filler.6F.02,NULL,Someone better sing the national anthem.
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,51,0,filler.6F.02,NULL,NULL,6,NULL,2925
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,8,0,test.adj.nonisl.long.bare.3.1,1,What did you think that the cook mangled?
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,8,0,test.adj.nonisl.long.bare.3.1,1,NULL,4,NULL,5951
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,42,0,filler.2F.01,NULL,There had all hung over the fireplace the portraits by Picasso.
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,42,0,filler.2F.01,NULL,NULL,3,NULL,64273
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,41,0,filler.1F.03,NULL,Jenny cleaned her sister the table.
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,41,0,filler.1F.03,NULL,NULL,1,NULL,3627
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,13,0,test.adj.isl.long.bare.4.2,2,What did you smile because the candidate solved?
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,13,0,test.adj.isl.long.bare.4.2,2,NULL,3,NULL,4467
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,48,0,filler.5F.01,NULL,The ball perfectly rolled down the hill.
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,48,0,filler.5F.01,NULL,NULL,6,NULL,2981
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,43,0,filler.2F.02,NULL,Lily will dance who the king chooses.
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,43,0,filler.2F.02,NULL,NULL,3,NULL,3697
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1586968658,695f53ef2cbed85f09a9ad57c2304594,Form,4,0,open_ended_question1,NULL,required,I would tell my boss that I didn't have much to do with the project. I would then recommend my colleague for the raise.
+1586968658,695f53ef2cbed85f09a9ad57c2304594,Form,4,0,open_ended_question1,NULL,_REACTION_TIME_,52402
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,35,0,test.adj.isl.short.bare.2.8,8,Who coughed because the witness repeated the insult?
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,35,0,test.adj.isl.short.bare.2.8,8,NULL,4,NULL,4898
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,50,0,filler.6F.01,NULL,There are firemen injured.
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,50,0,filler.6F.01,NULL,NULL,6,NULL,2481
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,30,0,test.adj.nonisl.short.bare.1.7,7,Who thought that the assistant opened the window?
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,30,0,test.adj.nonisl.short.bare.1.7,7,NULL,7,NULL,3205
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,46,0,filler.4F.01,NULL,There is likely a river to run down the mountain.
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,46,0,filler.4F.01,NULL,NULL,5,NULL,3687
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,47,0,filler.4F.02,NULL,Richard may have been hiding%2C but Blake may have done so too.
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,47,0,filler.4F.02,NULL,NULL,7,NULL,3869
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,14,0,test.adj.nonisl.short.bare.1.3,3,Who thought that the teenager ironed the jumper?
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,14,0,test.adj.nonisl.short.bare.1.3,3,NULL,2,NULL,7979
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,53,0,filler.7F.03,NULL,I hate eating sushi.
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,53,0,filler.7F.03,NULL,NULL,7,NULL,1911
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,52,0,filler.7F.02,NULL,Laura is more excited than nervous.
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,52,0,filler.7F.02,NULL,NULL,7,NULL,3214
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,29,0,test.adj.isl.long.bare.4.6,6,What did you waver because the speaker avoided?
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,29,0,test.adj.isl.long.bare.4.6,6,NULL,2,NULL,6776
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,40,0,filler.1F.02,NULL,Mike prefers tennis because Jon baseball.
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,40,0,filler.1F.02,NULL,NULL,1,NULL,3356
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,49,0,filler.5F.02,NULL,Lloyd Webber musicals are easy to condemn without even watching.
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,49,0,filler.5F.02,NULL,NULL,7,NULL,3549
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,24,0,test.adj.nonisl.long.bare.3.5,5,What did you think that the teenager sprinkled?
+1586968658,695f53ef2cbed85f09a9ad57c2304594,AcceptabilityJudgment,24,0,test.adj.nonisl.long.bare.3.5,5,NULL,7,NULL,3919
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1586968658,695f53ef2cbed85f09a9ad57c2304594,Form,5,0,open_ended_question2,NULL,required,I would tell my friend what I saw. Then I would recommend they make their own judgement.
+1586968658,695f53ef2cbed85f09a9ad57c2304594,Form,5,0,open_ended_question2,NULL,_REACTION_TIME_,34836
+1586968658,695f53ef2cbed85f09a9ad57c2304594,Form,2,0,exit,NULL,randomfield,UZ07r1OG
+1586968658,695f53ef2cbed85f09a9ad57c2304594,Form,2,0,exit,NULL,worker_id,A2XQ3P6M9NZNYB
+1586968658,695f53ef2cbed85f09a9ad57c2304594,Form,2,0,exit,NULL,identifier,UZ07r1OG
+1586968658,695f53ef2cbed85f09a9ad57c2304594,Form,2,0,exit,NULL,_REACTION_TIME_,11789
+#
+# Results on Wednesday April 15 2020 17:33:10 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+# Design number was non-random = 7
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1586971991,2dc517debd52822cfed71f6f0919f465,Form,1,0,consent,NULL,age,34
+1586971991,2dc517debd52822cfed71f6f0919f465,Form,1,0,consent,NULL,state name,California
+1586971991,2dc517debd52822cfed71f6f0919f465,Form,1,0,consent,NULL,biological sex,female
+1586971991,2dc517debd52822cfed71f6f0919f465,Form,1,0,consent,NULL,age,yes
+1586971991,2dc517debd52822cfed71f6f0919f465,Form,1,0,consent,NULL,parents' language,yes1
+1586971991,2dc517debd52822cfed71f6f0919f465,Form,1,0,consent,NULL,_REACTION_TIME_,17399
+1586971991,2dc517debd52822cfed71f6f0919f465,Form,3,0,instructions,NULL,_REACTION_TIME_,21565
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,54,0,practice.7P,NULL,She was the winner.
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,54,0,practice.7P,NULL,NULL,6,NULL,3418
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,55,0,practice.1P,NULL,Promise to wash%2C Neal did the car.
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,55,0,practice.1P,NULL,NULL,2,NULL,4039
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,56,0,practice.4P,NULL,The brother and sister that were playing all the time had to be sent to bed.
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,56,0,practice.4P,NULL,NULL,3,NULL,4983
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,57,0,practice.6P,NULL,The children were cared for by the adults and the teenagers.
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,57,0,practice.6P,NULL,NULL,5,NULL,3528
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,58,0,practice.2P,NULL,Ben is hopeful for everyone you do to attend.
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,58,0,practice.2P,NULL,NULL,1,NULL,3448
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,59,0,practice.5P,NULL,All the men seem to have all eaten supper.
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,59,0,practice.5P,NULL,NULL,3,NULL,3624
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,60,0,practice.3P,NULL,They consider a teacher of Chris geeky.
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,60,0,practice.3P,NULL,NULL,4,NULL,6554
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,38,0,unannonced.filler.7F.01,NULL,It seems to me that Robert can't be trusted.
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,38,0,unannonced.filler.7F.01,NULL,NULL,7,NULL,2743
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,39,0,unannonced.filler.1F.01,NULL,There might mice seem to be in the cupboard.
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,39,0,unannonced.filler.1F.01,NULL,NULL,2,NULL,3801
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,45,0,filler.3F.02,NULL,With that announcement were many citizens denied the opportunity to protest.
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,45,0,filler.3F.02,NULL,NULL,4,NULL,6461
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,10,0,test.adj.nonisl.short.bare.1.2,2,Who thought that the candidate solved the problem?
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,10,0,test.adj.nonisl.short.bare.1.2,2,NULL,5,NULL,7550
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,47,0,filler.4F.02,NULL,Richard may have been hiding%2C but Blake may have done so too.
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,47,0,filler.4F.02,NULL,NULL,6,NULL,7159
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,43,0,filler.2F.02,NULL,Lily will dance who the king chooses.
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,43,0,filler.2F.02,NULL,NULL,2,NULL,5818
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,20,0,test.adj.nonisl.long.bare.3.4,4,What did you think that the lecturer repeated?
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,20,0,test.adj.nonisl.long.bare.3.4,4,NULL,2,NULL,3065
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,44,0,filler.3F.01,NULL,The specimen thawed to study it more closely.
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,44,0,filler.3F.01,NULL,NULL,2,NULL,4635
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,51,0,filler.6F.02,NULL,Someone better sing the national anthem.
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,51,0,filler.6F.02,NULL,NULL,5,NULL,7784
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,15,0,test.adj.isl.short.bare.2.3,3,Who smiled because the teenager ironed the jumper?
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,15,0,test.adj.isl.short.bare.2.3,3,NULL,1,NULL,55397
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,40,0,filler.1F.02,NULL,Mike prefers tennis because Jon baseball.
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,40,0,filler.1F.02,NULL,NULL,4,NULL,4239
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,41,0,filler.1F.03,NULL,Jenny cleaned her sister the table.
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,41,0,filler.1F.03,NULL,NULL,2,NULL,3134
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,31,0,test.adj.isl.short.bare.2.7,7,Who sneezed because the assistant opened the window?
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,31,0,test.adj.isl.short.bare.2.7,7,NULL,5,NULL,3799
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1586971991,2dc517debd52822cfed71f6f0919f465,Form,4,0,open_ended_question1,NULL,required,I would tell him the truth about who did the work.
+1586971991,2dc517debd52822cfed71f6f0919f465,Form,4,0,open_ended_question1,NULL,_REACTION_TIME_,24453
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,53,0,filler.7F.03,NULL,I hate eating sushi.
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,53,0,filler.7F.03,NULL,NULL,7,NULL,2662
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,9,0,test.adj.isl.long.bare.4.1,1,What did you laugh because the cook mangled?
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,9,0,test.adj.isl.long.bare.4.1,1,NULL,2,NULL,3040
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,50,0,filler.6F.01,NULL,There are firemen injured.
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,50,0,filler.6F.01,NULL,NULL,7,NULL,4802
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,42,0,filler.2F.01,NULL,There had all hung over the fireplace the portraits by Picasso.
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,42,0,filler.2F.01,NULL,NULL,4,NULL,3677
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,36,0,test.adj.nonisl.long.bare.3.8,8,What did you think that the witness repeated?
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,36,0,test.adj.nonisl.long.bare.3.8,8,NULL,4,NULL,3732
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,52,0,filler.7F.02,NULL,Laura is more excited than nervous.
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,52,0,filler.7F.02,NULL,NULL,7,NULL,5795
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,48,0,filler.5F.01,NULL,The ball perfectly rolled down the hill.
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,48,0,filler.5F.01,NULL,NULL,7,NULL,11052
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,25,0,test.adj.isl.long.bare.4.5,5,What did you sneeze because the teenager sprinkled?
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,25,0,test.adj.isl.long.bare.4.5,5,NULL,2,NULL,3308
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,46,0,filler.4F.01,NULL,There is likely a river to run down the mountain.
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,46,0,filler.4F.01,NULL,NULL,6,NULL,9988
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,49,0,filler.5F.02,NULL,Lloyd Webber musicals are easy to condemn without even watching.
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,49,0,filler.5F.02,NULL,NULL,7,NULL,3924
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,26,0,test.adj.nonisl.short.bare.1.6,6,Who thought that the speaker avoided the topic?
+1586971991,2dc517debd52822cfed71f6f0919f465,AcceptabilityJudgment,26,0,test.adj.nonisl.short.bare.1.6,6,NULL,6,NULL,2837
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1586971991,2dc517debd52822cfed71f6f0919f465,Form,5,0,open_ended_question2,NULL,required,I would tell my best friend what I saw
+1586971991,2dc517debd52822cfed71f6f0919f465,Form,5,0,open_ended_question2,NULL,_REACTION_TIME_,21501
+1586971991,2dc517debd52822cfed71f6f0919f465,Form,2,0,exit,NULL,randomfield,RNaWEWQx
+1586971991,2dc517debd52822cfed71f6f0919f465,Form,2,0,exit,NULL,worker_id,A10ECDDI2BYH3K
+1586971991,2dc517debd52822cfed71f6f0919f465,Form,2,0,exit,NULL,identifier,RNaWEWQx
+1586971991,2dc517debd52822cfed71f6f0919f465,Form,2,0,exit,NULL,_REACTION_TIME_,12390
